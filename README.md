@@ -1,139 +1,103 @@
-<!-- ============ HEADER BANNER ============ -->
-<div align="center">
+# Varun Nair
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Varun%20Nair&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%C2%B7%20Machine%20Learning%20%C2%B7%20Robotics&descAlignY=58&descSize=18" width="100%" alt="Varun Nair banner"/>
+Software engineer focused on machine learning, simulation, and perception/sensing systems. I build end-to-end systems, from data collection and modeling through APIs and tested, deployed applications.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+software+that+reasons+and+moves;ML+%2B+AI+systems+%7C+Robotics+%7C+Full-stack;Hackathon+builder+%C2%B7+Always+shipping" alt="Typing animation"/>
-</a>
-
-<br/>
-
-<a href="mailto:varunnair120@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=varunnair1234&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
-
-</div>
+**Contact:** [varunnair120@gmail.com](mailto:varunnair120@gmail.com)
 
 ---
 
-## 👋 About Me
+## Focus Areas
 
-I build software at the intersection of **machine learning, AI reasoning, and robotics**, from benchmarks that stress-test LLMs to perception systems that track the physical world. I like turning fast prototypes (hackathons, research ideas) into things that actually run.
-
-- 🔭 Currently exploring: LLM reasoning evaluation, computer vision, and robotics software
-- 💼 Looking for: **SWE, ML/AI, and Robotics internships & new-grad roles**
-- 📫 Reach me: varunnair120@gmail.com
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**ML / AI / Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Robotics / Systems / Tools**
-
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</div>
+| Area | What I work on |
+| --- | --- |
+| Machine Learning & AI | Neural surrogate models, uncertainty quantification, LLM evaluation, classical computer vision |
+| Software Engineering | Backend APIs, data pipelines, automated testing, CI/CD, cloud deployment |
+| Robotics & Sensing | Multi-sensor data acquisition, real-time object tracking, simulation of physical systems |
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚓ <a href="https://github.com/varunnair1234/HarborProject_CruzHacks26">Harbor</a></h3>
-      <p>Built at <b>CruzHacks 2026</b>.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hackathon-CruzHacks_2026-orange?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/varunnair1234/Epigenetic-Clock-Reasoning-Bench">Epigenetic Clock Reasoning Bench</a></h3>
-      <p>A benchmark for evaluating how well AI models <b>reason about epigenetic aging clocks</b>.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LLM-Evaluation-8A2BE2?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/varunnair1234/ATMOS-Lab-framework">ATMOS Lab Framework</a></h3>
-      <p>Python research framework from the ATMOS Lab.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Framework-Research-0f2027?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/varunnair1234/object_tracker">Object Tracker</a></h3>
-      <p>Real-time <b>object tracking</b> pipeline in Python.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💊 <a href="https://github.com/Viharitejomurtula/Panacea">Panacea</a></h3>
-      <p>Team project with a live website.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Team_Project-2c5364?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔲 <a href="https://github.com/Viharitejomurtula/GR1D">GR1D</a></h3>
-      <p>Team project, built in Python.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Team_Project-2c5364?style=flat-square"/>
-    </td>
-  </tr>
-</table>
+### Panacea: Neural-Surrogate Epidemic Scenario Explorer
+[Repository](https://github.com/Viharitejomurtula/Panacea) | [Live demo](https://panacea-40a16.web.app) | Team project, built in 24 hours at HackDavis 2026 (Most Technically Challenging Project)
+
+Interactive tool for exploring how interventions such as masking, vaccination, and contact reduction change an outbreak over 365 days.
+
+- Trained a PyTorch surrogate on 5,000 Latin Hypercube-sampled runs of a 30,000-agent Mesa ABM, reaching an MAE of 0.043 and roughly 300,000x faster inference than the simulator.
+- Added Monte Carlo uncertainty bounds, Sobol sensitivity analysis (SALib), and decision-tree scenario discovery.
+- Served through a FastAPI backend with automated backend and frontend test suites and CI.
+
+**Stack:** Python, PyTorch, Mesa, SALib, FastAPI, pytest, GitHub Actions
+
+### GR1D: Grid Ride-Through Compliance Testing for Data Centers
+[Repository](https://github.com/Viharitejomurtula/GR1D) | Team project
+
+Pipeline that turns a data center design into a compliance verdict against ERCOT NOGRR 282 by stress-testing it with thousands of simulated grid disturbances.
+
+- Physics simulator in Modelica covering grid, transformers, PSU fleet, battery backup, cooling, and protection relays, graded against four requirements from the primary rule text.
+- Scenario generator built on a Bayesian network so correlated conditions (temperature, load, equipment age) are sampled jointly.
+- Neural surrogate trained on 9,771 simulator runs (92.0% pass/fail accuracy, AUC 0.955) to screen the scenario space, with Shapley attribution to rank failure drivers.
+
+**Stack:** Python, Modelica, PyTorch, FastAPI, Docker, ngspice and PyBaMM cross-checks
+
+### Harbor: Operating System for Local Businesses
+[Repository](https://github.com/varunnair1234/HarborProject_CruzHacks26) | CruzHacks 2026
+
+Full-stack platform that gives Santa Cruz small businesses early warning on cash flow, tourism demand, and rent changes.
+
+- Four modules: cash-runway projection, 7-day tourism forecast, rent-increase tracking, and a local business directory.
+- Trained a custom model on scraped Santa Cruz rent data and integrated open LLMs (DeepSeek, Gemini).
+- FastAPI backend with JWT authentication, Supabase database, deployed on Render.
+
+**Stack:** Python, FastAPI, Supabase, JWT, regression and classification models
+
+### Epigenetic Clock Reasoning Bench
+[Repository](https://github.com/varunnair1234/Epigenetic-Clock-Reasoning-Bench)
+
+Benchmark and evaluation harness for testing how well AI models reason about epigenetic aging clocks, built on the GSE40279 methylation dataset.
+
+- Scenario generator, model clients, and scorer with per-label metrics and baseline analysis.
+- Tissue aging simulation core with tests, plus a FastAPI visualization backend deployed on Render.
+- Technical documentation and pitch deck included in the repository.
+
+**Stack:** Python, FastAPI, pytest
+
+### ATMOS Lab Framework: Multi-Sensor Atmospheric Data Capture
+[Repository](https://github.com/varunnair1234/ATMOS-Lab-framework)
+
+Framework for capturing, logging, and analyzing weather data from an iMet-X4 radiosonde/UAS payload, a METER ATMOS 22 anemometer, and a Trisonica Mini 3D anemometer.
+
+- Independent serial and SDI-12 readers with automatic reconnect, fused into one canonical data stream.
+- Live Dash dashboard and post-flight reports (time series, wind rose, vertical profile, correlation analysis).
+- Parser tests validated against real hardware output; CI runs tests and publishes a dashboard to GitHub Pages.
+
+**Stack:** Python, Dash, matplotlib, pandas, pyserial, pytest, GitHub Actions
+
+### Object Tracker: Real-Time Visual Tracking with Incremental PCA
+[Repository](https://github.com/varunnair1234/object_tracker)
+
+Classical visual tracker, with no neural network or training data, that learns an object's appearance subspace online and locates it by reconstruction error.
+
+- Rolling buffer of winning patches feeds an SVD-based PCA appearance model that adapts to lighting and pose changes.
+- Candidate search, scoring, and update loop running on a live webcam feed, based on Ross et al. (2008).
+- Documents design decisions, failure modes (drift, occlusion, scale), and planned improvements.
+
+**Stack:** Python, OpenCV, PyTorch, NumPy
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
 
-<div align="center">
+**Languages:** Python, Modelica, SQL
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=varunnair1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&count_private=true&include_all_commits=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunnair1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027"/>
+**Machine Learning:** PyTorch, NumPy, pandas, OpenCV, surrogate modeling, uncertainty quantification, sensitivity analysis, Bayesian networks
 
-<img src="https://streak-stats.demolab.com?user=varunnair1234&theme=tokyonight&hide_border=true&background=0f2027" height="170"/>
+**Backend & Data:** FastAPI, REST APIs, JWT authentication, Supabase, serial and SDI-12 sensor interfaces
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/varunnair1234/varunnair1234/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
-</div>
+**Tools & Practices:** Git, GitHub Actions, Docker, pytest, Plotly Dash, deployment on Render, Railway, and Firebase
 
 ---
 
-<div align="center">
+## Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
-
-*Open to opportunities. Let's build something.*
-
-</div>
+I'm looking for software engineering, ML/AI, and robotics roles. The best way to reach me is by email at [varunnair120@gmail.com](mailto:varunnair120@gmail.com).
