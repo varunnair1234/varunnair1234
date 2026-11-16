@@ -1,8 +1,12 @@
-# Varun Nair
+<div align="center">
 
-Software engineer focused on machine learning, simulation, and robotics and sensing.
+<img src="https://raw.githubusercontent.com/varunnair1234/varunnair1234/main/assets/name.svg" width="800" alt="Varun Nair, software engineer"/>
 
-[varunnair120@gmail.com](mailto:varunnair120@gmail.com)
+<br/>
+
+<a href="mailto:varunnair120@gmail.com">varunnair120@gmail.com</a>
+
+</div>
 
 ---
 
@@ -37,6 +41,12 @@ I'm looking for software engineering, ML/AI, and robotics roles where I can keep
 ---
 
 ## Skills
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/varunnair1234/varunnair1234/main/assets/skills.svg" width="800" alt="Skills: Python, C++, SQL, PyTorch, NumPy, pandas, OpenCV, FastAPI, Supabase, Docker, Git, GitHub Actions, pytest"/>
+
+</div>
 
 **Languages:** Python, C++, SQL
 
