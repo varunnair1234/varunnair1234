@@ -21,8 +21,8 @@ Software engineer focused on machine learning, simulation, and perception/sensin
 
 ## Skills
 
-**Languages:** Python, Modelica, SQL
+**Languages:** Python, C++, SQL
 
-**ML:** PyTorch, NumPy, pandas, OpenCV, surrogate modeling, uncertainty quantification
+**ML:** PyTorch, NumPy, pandas, OpenCV, surrogate modeling, uncertainty quantification, LibTorch
 
-**Backend and tools:** FastAPI, Supabase, Docker, Git, GitHub Actions, pytest
+**Backend and tools:** FastAPI, Supabase, Docker, Git, GitHub Actions, pytest, C++
